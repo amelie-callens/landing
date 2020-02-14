@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script:400,500,600|IBM+Plex+Sans:300,400,500,700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 18px;
+	margin: 30px;
+	color: rgb(68, 181, 200);
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+	color: rgb(251, 213, 161);
+	font-size: 50px;
+}
+h2 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: lighter;
+	color: rgb(68, 181, 200);
+	font-size: 35px;
+}
+h3 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: lighter;
+	color: rgb(68, 181, 200);
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+}
